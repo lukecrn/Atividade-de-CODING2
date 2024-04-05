@@ -1,0 +1,31 @@
+Aluno: Pedro Lucas Carneiro da Silva (TADS 036)
+Segue as questões e suas respectivas respostas: 
+
+1) Qual é o valor impresso ao final da seguinte sequência de comandos?
+dia = “quinta-feira”
+dia = 32.5
+print(dia)
+dia = 19
+RESPOSTA = C [32,5]
+
+2- ?
+
+3) O que imprime o seguinte comando?
+ print((18 // 4), (18 % 4), (18/4))
+RESPOSTA = C [4, 2, 4.5]
+
+4) O que é impresso pelo seguinte comando?
+n = input("Por favor, entre com sua idade:") # usuário entra com 18
+print (type(n))  
+RESPOSTAS = C [<class 18>]
+
+5) Qual é o valor das expressões a seguir?
+x = 16 - 2 * 5 // 3 + 1
+y = 2 ** 2 ** 3 * 3
+print(x, y) 
+RESPOSTA = A [14, 768]
+
+6) O que é impresso pelo comando a seguir?:
+x = 12
+x -= 1
+print(x) C [11]
