@@ -28,4 +28,5 @@ RESPOSTA = A [14, 768]
 6) O que é impresso pelo comando a seguir?:
 x = 12
 x -= 1
-print(x) C [11]
+print(x) 
+RESPOSTA = C [11]
